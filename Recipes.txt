@@ -3,5 +3,14 @@ Welcome  to  the  kicthen
 
 add  some  thing
 
+salad.
+sandwich.
+bread.
+steak.
+tuna steak.
+fish.
+rice.
+spaghetti.
+
 
 thank  you

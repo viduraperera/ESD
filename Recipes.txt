@@ -12,5 +12,7 @@ fish.
 rice.
 spaghetti.
 
+tuna steak
+fish
 
 thank  you
